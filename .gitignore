@@ -1,3 +1,5 @@
+.history/
+
 # Prerequisites
 *.d
 
@@ -30,3 +32,6 @@
 *.exe
 *.out
 *.app
+
+_autosave-*.kicad_sch
+\#auto_saved_files\#
